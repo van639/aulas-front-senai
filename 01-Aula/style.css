@@ -1,3 +1,16 @@
+.containerConteudo{
+    height: 420px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 180px;
+    background-color: aqua;
+    text-align: center;
+    border-radius: 15px;
+}
+
+
+
 .aprovado{
     color:green;
     margin: 5px;
